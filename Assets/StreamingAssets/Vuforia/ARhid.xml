@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tersier" size="1.000000 0.771596" />
+    <ImageTarget name="Sekunder" size="1.000000 0.850917" />
+    <ImageTarget name="Propuna" size="1.000000 0.771596" />
+    <ImageTarget name="Propena" size="1.000000 0.771596" />
+    <ImageTarget name="Propana" size="1.000000 0.765748" />
+    <ImageTarget name="Primer" size="1.000000 0.877358" />
+    <ImageTarget name="Metana" size="1.000000 0.770459" />
+    <ImageTarget name="Kuartener" size="1.000000 0.856132" />
+    <ImageTarget name="Etuna" size="1.000000 0.771596" />
+    <ImageTarget name="Etena" size="1.000000 0.855051" />
+    <ImageTarget name="Etana" size="1.000000 0.771596" />
+    <ImageTarget name="Butuna" size="1.000000 0.771596" />
+    <ImageTarget name="Butena" size="1.000000 0.771596" />
+  </Tracking>
+</QCARConfig>
